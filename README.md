@@ -26,6 +26,9 @@
 
 ### Execution Flowchart
 
+![GitHub Logo](https://github.com/shivamlakhtariya/Datra-Analysis/blob/master/Image/Data_visulization_process.JPG)
+
+![GitHub Logo](https://github.com/shivamlakhtariya/Datra-Analysis/blob/master/Image/KDD_Process.png)
 
 
 ### Entity Relationship Diagram
