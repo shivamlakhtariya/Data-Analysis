@@ -33,11 +33,13 @@ Data analysis is defined as a process of cleaning, transforming, and modeling da
 ![GitHub Logo](https://github.com/shivamlakhtariya/Datra-Analysis/blob/master/Image/life_expectation.png)
 
 
-## Execution Flowchart
+## TV show analysis
 
-![GitHub Logo](https://github.com/shivamlakhtariya/Datra-Analysis/blob/master/Image/Data_visulization_process.JPG)
+![GitHub Logo](https://github.com/shivamlakhtariya/Datra-Analysis/blob/master/TV_show_analysis/Results/8%20all%20show.JPG)
 
-![GitHub Logo](https://github.com/shivamlakhtariya/Datra-Analysis/blob/master/Image/KDD_Process.png)
+![GitHub Logo](https://github.com/shivamlakhtariya/Datra-Analysis/blob/master/TV_show_analysis/Results/imdbvsRottentomatoes.JPG)
 
+![GitHub Logo](https://github.com/shivamlakhtariya/Datra-Analysis/blob/master/TV_show_analysis/Results/4%20show%20age%20wise.JPG)
 
+![GitHub Logo](https://github.com/shivamlakhtariya/Datra-Analysis/blob/master/TV_show_analysis/Results/imdbtop100show.JPG)
 
