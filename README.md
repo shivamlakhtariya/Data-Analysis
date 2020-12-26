@@ -1,4 +1,4 @@
-# Datra-Analysis
+# Data-Analysis
 
 # Table Content
 - Introduction
@@ -32,7 +32,6 @@ Data analysis is defined as a process of cleaning, transforming, and modeling da
 
 ![GitHub Logo](https://github.com/shivamlakhtariya/Datra-Analysis/blob/master/Image/life_expectation.png)
 
-
 ## TV show analysis
 
 ![GitHub Logo](https://github.com/shivamlakhtariya/Datra-Analysis/blob/master/TV_show_analysis/Results/8%20all%20show.JPG)
@@ -43,3 +42,9 @@ Data analysis is defined as a process of cleaning, transforming, and modeling da
 
 ![GitHub Logo](https://github.com/shivamlakhtariya/Datra-Analysis/blob/master/TV_show_analysis/Results/imdbtop100show.JPG)
 
+
+
+## Contributors
+
+| [Parth Patel](https://github.com/parth-27)                                                                                                            
+| [Shivam Lakhtariya ](https://github.com/shivamlakhtariya)           
